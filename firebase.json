@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "archive-phoenixrise-cz",
+    "public": "public",
+    "ignore": [
+      ".firebase/**",
+      "firebase.json",
+      "LICENSE",
+      "README.md"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
+  }
+}
