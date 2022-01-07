@@ -9,6 +9,6 @@
       "README.md"
     ],
     "cleanUrls": true,
-    "trailingSlash": false
+    "trailingSlash": true
   }
 }
