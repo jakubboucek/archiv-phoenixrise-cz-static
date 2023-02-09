@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "phoenixrise-cz"
+  },
+  "targets": {
+    "phoenixrise-cz": {
+      "hosting": {
+        "archive": [
+          "archive-phoenixrise-cz"
+        ]
+      }
+    }
+  }
+}
